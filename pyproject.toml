@@ -1,0 +1,10 @@
+[project]
+name = "cg-work3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "tachi>=0.0.0",
+    "taichi>=1.7.4",
+]
