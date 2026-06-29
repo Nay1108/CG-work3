@@ -173,3 +173,4 @@ for e in window.get_events(ti.ui.PRESS):
 ***
 
 ## 六、运行录屏
+![gif](https://work3-ezgif.com-video-to-gif-converter.gif)
